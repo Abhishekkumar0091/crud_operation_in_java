@@ -16,6 +16,7 @@ This project demonstrates the implementation of **CRUD (Create, Read, Update, De
 - CSS
 **Backend**
 - Java/sevlet/jsp
+
 **Database**
 - MySQL
 
