@@ -8,24 +8,14 @@ This project demonstrates the implementation of **CRUD (Create, Read, Update, De
 - Read and display existing records
 - Update existing data
 - Delete records
-- User-friendly interface
-- Proper validation and error handling
 
 ## 🛠️ Technologies Used
 
 **Frontend**
 - HTML
 - CSS
-- JavaScript  
-*(or React, if applicable)*
-
 **Backend**
-- Java / Node.js / Express  
-*(update as per your project)*
-
+- Java/sevlet/jsp
 **Database**
-- MySQL / MongoDB  
-*(update as per your project)*
-
-## 📂 Project Structure
+- MySQL
 
